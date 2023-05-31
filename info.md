@@ -12,6 +12,8 @@
 
 ###### GitHub repository
 
+###### GitHub Pull Request
+
 **Полужирное начертание**
 
 обычный текст
